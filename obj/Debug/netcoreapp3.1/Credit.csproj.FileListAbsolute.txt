@@ -1,0 +1,14 @@
+C:\Users\Meta\source\repos\Credit\bin\Debug\netcoreapp3.1\Credit.exe
+C:\Users\Meta\source\repos\Credit\bin\Debug\netcoreapp3.1\Credit.deps.json
+C:\Users\Meta\source\repos\Credit\bin\Debug\netcoreapp3.1\Credit.runtimeconfig.json
+C:\Users\Meta\source\repos\Credit\bin\Debug\netcoreapp3.1\Credit.runtimeconfig.dev.json
+C:\Users\Meta\source\repos\Credit\bin\Debug\netcoreapp3.1\Credit.dll
+C:\Users\Meta\source\repos\Credit\bin\Debug\netcoreapp3.1\Credit.pdb
+C:\Users\Meta\source\repos\Credit\obj\Debug\netcoreapp3.1\Credit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meta\source\repos\Credit\obj\Debug\netcoreapp3.1\Credit.AssemblyInfoInputs.cache
+C:\Users\Meta\source\repos\Credit\obj\Debug\netcoreapp3.1\Credit.AssemblyInfo.cs
+C:\Users\Meta\source\repos\Credit\obj\Debug\netcoreapp3.1\Credit.csproj.CoreCompileInputs.cache
+C:\Users\Meta\source\repos\Credit\obj\Debug\netcoreapp3.1\Credit.dll
+C:\Users\Meta\source\repos\Credit\obj\Debug\netcoreapp3.1\Credit.pdb
+C:\Users\Meta\source\repos\Credit\obj\Debug\netcoreapp3.1\Credit.genruntimeconfig.cache
+C:\Users\Meta\source\repos\Credit\obj\Debug\netcoreapp3.1\Credit.csproj.AssemblyReference.cache
