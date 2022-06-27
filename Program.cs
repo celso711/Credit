@@ -34,7 +34,7 @@ namespace Credit
             }
             Console.WriteLine(" }");
             Console.WriteLine("Output:");
-            Console.WriteLine("tradeCategories = { "+ tradeCategories[0]+","  + tradeCategories[1]+","+ tradeCategories[2]+","+ tradeCategories[3] + " }");
+            Console.WriteLine("tradeCategories = { "+ tradeCategories[0]+", "  + tradeCategories[1]+", "+ tradeCategories[2]+", "+ tradeCategories[3] + " }");
         }
     }
     class Category
